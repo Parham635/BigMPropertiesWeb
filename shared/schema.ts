@@ -42,8 +42,8 @@ export const propertyData = [
     ],
     images: [
       "/propertypics/property1.jpg",
-      "https://images.unsplash.com/photo-1501183638710-841dd1904471",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb",
+      "/propertypics/property1.jpg",
+      "/propertypics/property1.jpg",
     ],
   },
   {
@@ -63,9 +63,9 @@ export const propertyData = [
       "24/7 security",
     ],
     images: [
-      "https://images.unsplash.com/photo-1494526585095-c41746248156",
-      "https://images.unsplash.com/photo-1507652313519-d4e9174996dd",
-      "https://images.unsplash.com/photo-1532926381893-7542290edf1d",
+      "/propertypics/property2.jpg",
+      "/propertypics/property2.jpg",
+      "/propertypics/property2.jpg",
     ],
   },
   {
@@ -85,9 +85,9 @@ export const propertyData = [
       "Walk to campus",
     ],
     images: [
-      "https://images.unsplash.com/photo-1566908829550-e6551b00979b",
-      "https://images.unsplash.com/photo-1416331108676-a22ccb276e35",
-      "https://images.unsplash.com/photo-1507149833265-60c372daea22",
+      "/propertypics/property3.jpg",
+      "/propertypics/property3.jpg",
+      "/propertypics/property3.jpg",
     ],
   },
   {
@@ -107,9 +107,9 @@ export const propertyData = [
       "Modern design",
     ],
     images: [
-      "https://images.unsplash.com/photo-1483366774565-c783b9f70e2c",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750",
-      "https://images.unsplash.com/photo-1507089947368-19c1da9775ae",
+      "/propertypics/property4.jpg",
+      "/propertypics/property4.jpg",
+      "/propertypics/property4.jpg",
     ],
   },
 ];
