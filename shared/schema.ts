@@ -42,8 +42,8 @@ export const propertyData = [
     ],
     images: [
       "/propertypics/property1.jpg",
-      "/propertypics/property1-2.jpg",
-      "/propertypics/property1-3.jpg",
+      "/propertypics/property1.jpg",
+      "/propertypics/property1.jpg",
     ],
   },
   {
@@ -64,8 +64,8 @@ export const propertyData = [
     ],
     images: [
       "/propertypics/property2.jpg",
-      "/propertypics/property2-2.jpg",
-      "/propertypics/property2-3.jpg",
+      "/propertypics/property2.jpg",
+      "/propertypics/property2.jpg",
     ],
   },
   {
@@ -86,8 +86,8 @@ export const propertyData = [
     ],
     images: [
       "/propertypics/property3.jpg",
-      "/propertypics/property3-2.jpg",
-      "/propertypics/property3-3.jpg",
+      "/propertypics/property3.jpg",
+      "/propertypics/property3.jpg",
     ],
   },
   {
@@ -108,8 +108,8 @@ export const propertyData = [
     ],
     images: [
       "/propertypics/property4.jpg",
-      "/propertypics/property4-2.jpg",
-      "/propertypics/property4-3.jpg",
+      "/propertypics/property4.jpg",
+      "/propertypics/property4.jpg",
     ],
   },
 ];
