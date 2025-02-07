@@ -41,9 +41,9 @@ export const propertyData = [
       "Pet friendly",
     ],
     images: [
-      "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&auto=format&fit=crop",
+      "/propertypics/property1.jpg",
+      "/propertypics/property1-2.jpg",
+      "/propertypics/property1-3.jpg",
     ],
   },
   {
@@ -63,9 +63,9 @@ export const propertyData = [
       "24/7 security",
     ],
     images: [
-      "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1565183928294-7063f23ce0f8?w=800&auto=format&fit=crop",
+      "/propertypics/property2.jpg",
+      "/propertypics/property2-2.jpg",
+      "/propertypics/property2-3.jpg",
     ],
   },
   {
@@ -85,9 +85,9 @@ export const propertyData = [
       "Walk to campus",
     ],
     images: [
-      "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600607687644-aac4c3eac0ec?w=800&auto=format&fit=crop",
+      "/propertypics/property3.jpg",
+      "/propertypics/property3-2.jpg",
+      "/propertypics/property3-3.jpg",
     ],
   },
   {
@@ -107,9 +107,9 @@ export const propertyData = [
       "Modern design",
     ],
     images: [
-      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?w=800&auto=format&fit=crop",
-      "https://images.unsplash.com/photo-1600566752355-35792bedcfea?w=800&auto=format&fit=crop",
+      "/propertypics/property4.jpg",
+      "/propertypics/property4-2.jpg",
+      "/propertypics/property4-3.jpg",
     ],
   },
 ];
