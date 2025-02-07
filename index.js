@@ -164,6 +164,7 @@ var __filename = fileURLToPath(import.meta.url);
 var __dirname = dirname(__filename);
 var vite_config_default = defineConfig({
   plugins: [react(), runtimeErrorOverlay(), themePlugin()],
+  base: "/BigMPropertiesWeb/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "client", "src"),
